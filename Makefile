@@ -13,7 +13,7 @@ package-uninstall:
 lint:
 	poetry run flake8 gendiff
 
-build: check
+build:
 		poetry build
 
 gendiff:
