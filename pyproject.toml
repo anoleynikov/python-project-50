@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "it's my second project"
 authors = ["anton9760 <anton2610@mail.ru>"]
 readme = "README.md"
-
 packages = [
   { include = "gendiff" },
 ]
